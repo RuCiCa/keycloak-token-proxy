@@ -1,0 +1,13 @@
+{
+  "name": "keycloak-token-proxy",
+  "version": "1.0.0",
+  "description": "透明的 Bearer Token 注入代理，讓不支援 OAuth2 的服務能自動帶上 Keycloak Token",
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node test/test.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
