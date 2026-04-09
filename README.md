@@ -139,7 +139,7 @@ server.close();
 
 ---
 
-## 實際應用範例：搭配 FUME FHIR Converter
+## 實際應用範例：搭配 FUME Node.js 架設的服務器使用，在server.js
 
 FUME 的 `FHIR_SERVER_BASE` 只支援無認證或 Basic Auth，無法直接連接需要 Keycloak Token 的 FHIR Server。
 
