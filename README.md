@@ -8,7 +8,7 @@
 
 ## 解決什麼問題
 
-某些服務（例如 [FUME FHIR Converter](https://github.com/outburnltd/fume-fhir-converter)）在連接外部資源時，只支援無認證或 Basic Auth，無法直接使用 Keycloak 的 Bearer Token。
+某些服務（例如 [FUME Community]([https://github.com/outburnltd/fume-fhir-converter](https://github.com/Outburn-IL/fume-community))）在連接外部資源時，只支援無認證或 Basic Auth，無法直接使用 Keycloak 的 Bearer Token。
 
 這個套件在本地啟動一個輕量代理伺服器：
 
